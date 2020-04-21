@@ -4,6 +4,8 @@
 
 ### others ###
 submission/
+data/
+model/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
